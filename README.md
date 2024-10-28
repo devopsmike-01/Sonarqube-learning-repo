@@ -50,3 +50,5 @@ With this setup, you can deploy your artifacts to Nexus by running the following
 ```
 
 This command will upload the built artifacts to the Nexus repository specified in the distributionManagement section of your pom.xml. Using Nexus Repository Manager alongside Maven simplifies dependency management and enhances the scalability of your CI/CD pipelines.
+
+/Users/user/Desktop/Downloads/nexus-learning-repo/README.md
