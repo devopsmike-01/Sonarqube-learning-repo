@@ -235,7 +235,7 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 11. Change the version from 1.0-Snapshot to 1.0
 12. Run `mvn deploy` to deploy to Snapshot Repo or `mvn clean deploy -P release`, to deploy it to Release Repo
 
-4) SonarQube
+4) **SonarQube**
     - Create an Create an Ubuntu 20.04 VM instance and call it "SonarQube"
     - Instance type: t2.medium
     - Security Group (Open): 9000 and 22 to 0.0.0.0/0
