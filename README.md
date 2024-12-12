@@ -1,10 +1,7 @@
 # Sonarqube-learning-repo
-
-This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
-
-For interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
-
-Visit my website for more inquiries and support [DevOpswithMike](https://devopswithmike.tech/).
+- This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
+- For interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
+- Visit my website for more inquiries and support [DevOpswithMike](https://devopswithmike.tech/).
 
 ## Introduction
 SonarQube is an open-source platform for continuous code quality and security analysis. It inspects source code, looking for bugs, vulnerabilities, code smells, and technical debt across a wide range of programming languages. SonarQube integrates with existing DevOps tools and CI/CD pipelines to provide real-time feedback on code health, allowing development teams to address issues proactively and enforce quality standards.
